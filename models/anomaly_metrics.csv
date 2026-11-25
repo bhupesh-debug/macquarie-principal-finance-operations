@@ -1,0 +1,10 @@
+metric,value
+tp,6.0
+fp,0.0
+fn,0.0
+tn,55.0
+precision,1.0
+recall,1.0
+f1,1.0
+n_true,6.0
+n_flagged,6.0

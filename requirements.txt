@@ -1,0 +1,7 @@
+pandas>=3.0
+numpy>=2.0
+scikit-learn>=1.7
+scipy>=1.14
+matplotlib>=3.9
+python-pptx>=1.0
+reportlab>=4.0

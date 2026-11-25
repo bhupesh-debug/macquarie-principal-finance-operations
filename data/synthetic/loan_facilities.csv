@@ -1,0 +1,601 @@
+facility_id,product_line,deal_type,borrower_sector,commitment_usd_m,rate_pct,maturity_years,stage,days_in_stage,status
+PF-1000,Real Estate,Bilateral,Telecom & Media,96.4,7.51,4,Received,33,Closed
+PF-1001,Private Credit,Bilateral,Leisure,82.0,6.15,4,Admin,43,Closed
+PF-1002,Private Equity,Syndicated,Technology,42.9,9.33,7,Admin,25,Active
+PF-1003,Private Equity,Bilateral,Real Estate,80.3,8.14,2,Approval,24,Active
+PF-1004,Private Credit,Bilateral,Leisure,40.6,5.29,6,Analysis,15,Active
+PF-1005,Private Credit,Syndicated,Infrastructure,44.8,10.09,2,Admin,21,Active
+PF-1006,Private Credit,Syndicated,Real Estate,63.4,8.9,4,Admin,18,Active
+PF-1007,Real Estate,Bilateral,Infrastructure,13.1,4.87,5,Received,8,Active
+PF-1008,Private Credit,Syndicated,Energy,166.6,8.53,6,Admin,30,Active
+PF-1009,Real Estate,Bilateral,Telecom & Media,32.9,5.9,6,Admin,31,Active
+PF-1010,Private Credit,Syndicated,Real Estate,79.5,8.58,4,Closing,37,Closed
+PF-1011,Real Estate,Bilateral,Telecom & Media,91.9,10.44,2,Received,6,Active
+PF-1012,Private Equity,Syndicated,Infrastructure,13.7,5.58,6,Analysis,22,Active
+PF-1013,Real Estate,Syndicated,Healthcare,51.1,8.71,4,Approval,13,Active
+PF-1014,Real Estate,Bilateral,Technology,53.8,9.11,7,Admin,13,Closed
+PF-1015,Real Estate,Syndicated,Real Estate,67.5,7.05,5,Closing,28,Active
+PF-1016,Private Credit,Bilateral,Energy,26.8,10.32,4,Admin,13,Active
+PF-1017,Private Credit,Syndicated,Real Estate,100.9,8.99,3,Closing,22,Active
+PF-1018,Private Credit,Bilateral,Leisure,40.8,5.82,2,Received,30,Closed
+PF-1019,Private Equity,Bilateral,Leisure,22.7,9.11,3,Analysis,37,Active
+PF-1020,Real Estate,Bilateral,Telecom & Media,30.5,8.2,7,Approval,11,Active
+PF-1021,Private Credit,Bilateral,Energy,39.4,7.98,6,Admin,30,Active
+PF-1022,Private Credit,Syndicated,Leisure,96.6,6.77,5,Admin,19,Closed
+PF-1023,Private Equity,Bilateral,Healthcare,67.2,10.81,4,Admin,37,Active
+PF-1024,Private Credit,Bilateral,Healthcare,154.9,9.91,7,Approval,7,On Hold
+PF-1025,Private Equity,Bilateral,Infrastructure,17.4,7.04,7,Closing,11,Active
+PF-1026,Private Credit,Bilateral,Technology,151.9,7.27,7,Approval,12,On Hold
+PF-1027,Private Credit,Syndicated,Real Estate,76.9,5.98,4,Approval,37,Active
+PF-1028,Private Credit,Syndicated,Telecom & Media,29.4,10.05,2,Admin,42,Closed
+PF-1029,Real Estate,Bilateral,Real Estate,29.7,10.24,3,Analysis,22,On Hold
+PF-1030,Real Estate,Syndicated,Healthcare,76.2,5.92,4,Admin,1,Active
+PF-1031,Private Credit,Bilateral,Technology,84.1,6.94,6,Analysis,3,Closed
+PF-1032,Private Credit,Bilateral,Energy,14.4,9.4,5,Closing,24,Active
+PF-1033,Private Equity,Syndicated,Technology,106.8,8.54,4,Analysis,42,Active
+PF-1034,Real Estate,Syndicated,Real Estate,66.2,7.7,2,Closing,21,Active
+PF-1035,Private Credit,Syndicated,Telecom & Media,41.9,6.56,3,Admin,32,Active
+PF-1036,Real Estate,Syndicated,Leisure,156.8,6.69,3,Admin,39,Active
+PF-1037,Private Credit,Bilateral,Leisure,235.4,5.86,2,Analysis,39,Active
+PF-1038,Real Estate,Syndicated,Infrastructure,33.8,11.32,7,Received,7,Active
+PF-1039,Private Equity,Syndicated,Telecom & Media,63.3,9.96,7,Admin,20,On Hold
+PF-1040,Private Equity,Syndicated,Healthcare,43.1,6.92,4,Admin,34,Active
+PF-1041,Private Equity,Syndicated,Technology,12.2,5.72,3,Approval,37,Active
+PF-1042,Private Credit,Syndicated,Energy,41.0,5.17,2,Approval,16,Active
+PF-1043,Private Equity,Syndicated,Healthcare,18.2,10.68,2,Received,8,Active
+PF-1044,Private Credit,Syndicated,Technology,52.1,4.55,4,Closing,25,Closed
+PF-1045,Private Credit,Syndicated,Telecom & Media,100.0,8.45,6,Approval,12,Active
+PF-1046,Real Estate,Bilateral,Healthcare,45.8,10.81,3,Approval,40,On Hold
+PF-1047,Private Credit,Syndicated,Healthcare,35.6,6.74,2,Admin,14,Active
+PF-1048,Private Credit,Syndicated,Healthcare,25.1,6.39,2,Approval,44,Active
+PF-1049,Real Estate,Bilateral,Healthcare,13.7,9.41,4,Closing,34,Active
+PF-1050,Private Equity,Syndicated,Infrastructure,55.9,5.19,2,Analysis,32,Active
+PF-1051,Private Credit,Bilateral,Real Estate,36.3,11.49,4,Approval,23,Active
+PF-1052,Private Credit,Bilateral,Healthcare,82.4,8.5,6,Analysis,6,Active
+PF-1053,Private Credit,Syndicated,Leisure,110.9,7.42,5,Admin,4,Active
+PF-1054,Private Equity,Syndicated,Telecom & Media,16.6,9.69,5,Approval,27,Active
+PF-1055,Real Estate,Syndicated,Technology,72.8,8.07,7,Closing,10,Active
+PF-1056,Private Credit,Syndicated,Healthcare,90.2,6.81,4,Analysis,44,Active
+PF-1057,Real Estate,Bilateral,Real Estate,26.9,6.02,7,Closing,14,Active
+PF-1058,Private Credit,Bilateral,Healthcare,29.7,8.19,3,Approval,15,Active
+PF-1059,Private Credit,Bilateral,Infrastructure,65.9,6.26,3,Closing,20,Active
+PF-1060,Private Credit,Bilateral,Technology,47.2,7.69,5,Closing,24,Active
+PF-1061,Private Credit,Syndicated,Telecom & Media,55.1,4.54,7,Received,10,Active
+PF-1062,Real Estate,Syndicated,Energy,133.3,6.09,5,Approval,12,Active
+PF-1063,Private Credit,Syndicated,Leisure,12.2,9.61,7,Admin,43,Active
+PF-1064,Private Equity,Syndicated,Healthcare,35.3,7.45,5,Closing,14,Closed
+PF-1065,Real Estate,Bilateral,Telecom & Media,61.7,8.46,7,Received,23,Active
+PF-1066,Private Equity,Syndicated,Healthcare,110.2,10.19,6,Admin,24,Closed
+PF-1067,Real Estate,Syndicated,Infrastructure,34.4,5.57,2,Admin,21,Active
+PF-1068,Real Estate,Bilateral,Energy,42.7,9.44,5,Analysis,44,Closed
+PF-1069,Private Equity,Syndicated,Telecom & Media,11.8,10.6,4,Admin,25,Active
+PF-1070,Private Equity,Syndicated,Technology,9.6,5.24,5,Approval,10,Closed
+PF-1071,Real Estate,Bilateral,Energy,59.8,9.15,5,Admin,40,On Hold
+PF-1072,Private Equity,Syndicated,Real Estate,26.9,10.05,2,Analysis,25,On Hold
+PF-1073,Private Credit,Bilateral,Healthcare,27.4,7.52,7,Admin,26,Active
+PF-1074,Private Equity,Syndicated,Real Estate,17.3,8.32,4,Approval,23,Active
+PF-1075,Real Estate,Bilateral,Energy,98.6,11.09,2,Admin,17,Active
+PF-1076,Private Credit,Bilateral,Telecom & Media,25.9,6.13,7,Approval,5,Active
+PF-1077,Private Credit,Bilateral,Real Estate,6.9,6.4,2,Admin,35,Active
+PF-1078,Private Equity,Syndicated,Healthcare,57.4,9.55,4,Analysis,19,Active
+PF-1079,Private Credit,Syndicated,Infrastructure,13.8,5.61,7,Received,44,Active
+PF-1080,Private Credit,Bilateral,Telecom & Media,75.4,9.78,7,Closing,28,Active
+PF-1081,Real Estate,Syndicated,Healthcare,34.5,10.39,4,Closing,28,Active
+PF-1082,Private Credit,Syndicated,Real Estate,89.8,8.05,5,Received,23,Active
+PF-1083,Private Equity,Bilateral,Infrastructure,81.7,9.61,4,Approval,7,Active
+PF-1084,Private Credit,Bilateral,Real Estate,177.3,10.89,6,Admin,37,Active
+PF-1085,Private Credit,Syndicated,Technology,154.0,8.82,6,Admin,7,Active
+PF-1086,Private Credit,Bilateral,Technology,73.3,7.12,6,Analysis,19,Active
+PF-1087,Private Credit,Bilateral,Leisure,61.9,7.69,2,Closing,36,Active
+PF-1088,Real Estate,Bilateral,Energy,39.0,10.89,7,Closing,10,Active
+PF-1089,Private Equity,Bilateral,Energy,52.6,8.68,2,Admin,41,Active
+PF-1090,Private Credit,Bilateral,Energy,10.7,9.69,5,Closing,23,Active
+PF-1091,Real Estate,Syndicated,Infrastructure,50.9,9.44,4,Closing,4,Active
+PF-1092,Private Equity,Bilateral,Technology,116.5,10.26,3,Analysis,15,Active
+PF-1093,Private Credit,Syndicated,Infrastructure,20.9,5.94,4,Closing,20,Active
+PF-1094,Private Equity,Syndicated,Telecom & Media,90.2,7.33,2,Analysis,20,Active
+PF-1095,Private Credit,Bilateral,Technology,78.7,8.79,2,Approval,25,Active
+PF-1096,Private Credit,Bilateral,Telecom & Media,10.0,10.3,5,Analysis,35,Active
+PF-1097,Private Equity,Syndicated,Real Estate,39.7,6.47,4,Admin,27,Active
+PF-1098,Private Equity,Bilateral,Healthcare,17.0,9.29,7,Analysis,35,Active
+PF-1099,Private Credit,Syndicated,Infrastructure,33.9,6.14,2,Admin,44,Active
+PF-1100,Real Estate,Bilateral,Technology,210.3,5.9,3,Admin,2,Active
+PF-1101,Real Estate,Bilateral,Technology,17.2,6.33,7,Received,6,Active
+PF-1102,Private Credit,Bilateral,Real Estate,23.9,5.16,4,Admin,9,Active
+PF-1103,Private Credit,Bilateral,Telecom & Media,25.3,9.42,6,Analysis,14,Active
+PF-1104,Real Estate,Syndicated,Technology,71.7,6.7,6,Approval,10,On Hold
+PF-1105,Private Credit,Syndicated,Leisure,80.9,5.29,4,Admin,24,Active
+PF-1106,Private Equity,Syndicated,Healthcare,20.1,9.3,4,Closing,12,On Hold
+PF-1107,Private Equity,Bilateral,Telecom & Media,48.3,9.12,3,Admin,25,Active
+PF-1108,Private Credit,Syndicated,Energy,60.3,10.27,4,Analysis,5,Active
+PF-1109,Private Credit,Syndicated,Technology,37.2,11.03,4,Analysis,28,Closed
+PF-1110,Private Equity,Syndicated,Energy,60.4,7.3,4,Admin,31,Active
+PF-1111,Private Credit,Bilateral,Healthcare,45.4,10.35,6,Analysis,21,Active
+PF-1112,Private Credit,Syndicated,Infrastructure,15.4,6.33,6,Admin,11,On Hold
+PF-1113,Private Equity,Syndicated,Healthcare,60.1,7.22,7,Admin,39,Active
+PF-1114,Private Equity,Bilateral,Healthcare,57.1,8.14,7,Admin,30,Active
+PF-1115,Real Estate,Syndicated,Healthcare,85.7,10.44,2,Analysis,39,Closed
+PF-1116,Real Estate,Bilateral,Real Estate,34.3,9.95,6,Closing,26,Active
+PF-1117,Real Estate,Bilateral,Leisure,18.7,7.4,2,Received,37,Closed
+PF-1118,Private Credit,Bilateral,Healthcare,30.2,9.94,7,Closing,4,Closed
+PF-1119,Real Estate,Bilateral,Technology,592.5,10.39,7,Analysis,16,Active
+PF-1120,Real Estate,Syndicated,Technology,62.0,5.27,3,Analysis,9,Active
+PF-1121,Private Credit,Syndicated,Telecom & Media,18.1,10.16,7,Analysis,5,Active
+PF-1122,Real Estate,Syndicated,Infrastructure,54.7,8.6,7,Received,23,Active
+PF-1123,Private Credit,Bilateral,Leisure,37.7,6.92,6,Admin,38,Active
+PF-1124,Real Estate,Bilateral,Infrastructure,17.0,5.1,2,Closing,41,Active
+PF-1125,Private Equity,Bilateral,Technology,59.6,8.1,5,Approval,44,Active
+PF-1126,Private Credit,Syndicated,Technology,27.2,5.4,2,Closing,26,Active
+PF-1127,Private Equity,Bilateral,Technology,23.9,8.36,3,Admin,26,Active
+PF-1128,Private Equity,Syndicated,Telecom & Media,40.5,8.29,4,Approval,34,Active
+PF-1129,Private Equity,Bilateral,Real Estate,43.8,7.09,5,Admin,28,On Hold
+PF-1130,Real Estate,Bilateral,Leisure,55.5,6.58,7,Received,6,Closed
+PF-1131,Private Equity,Syndicated,Healthcare,21.9,7.58,4,Admin,7,Active
+PF-1132,Private Credit,Syndicated,Telecom & Media,75.7,8.3,6,Admin,39,Closed
+PF-1133,Private Equity,Syndicated,Healthcare,33.3,10.32,6,Admin,13,Active
+PF-1134,Private Equity,Bilateral,Infrastructure,82.1,7.38,5,Received,39,Active
+PF-1135,Private Credit,Syndicated,Leisure,26.9,6.05,4,Approval,13,Closed
+PF-1136,Private Credit,Bilateral,Healthcare,126.6,7.42,7,Approval,24,Active
+PF-1137,Private Credit,Syndicated,Energy,37.9,6.89,4,Approval,41,Active
+PF-1138,Real Estate,Syndicated,Telecom & Media,38.4,5.07,2,Analysis,24,Active
+PF-1139,Private Credit,Bilateral,Healthcare,75.6,8.95,7,Closing,27,Active
+PF-1140,Private Credit,Syndicated,Telecom & Media,68.2,8.57,3,Admin,7,Active
+PF-1141,Real Estate,Bilateral,Infrastructure,40.2,6.57,2,Closing,19,Active
+PF-1142,Private Equity,Syndicated,Real Estate,30.9,4.91,7,Closing,20,Active
+PF-1143,Real Estate,Syndicated,Infrastructure,47.1,7.99,3,Analysis,4,Active
+PF-1144,Private Equity,Syndicated,Leisure,73.1,5.82,3,Analysis,44,Active
+PF-1145,Private Credit,Bilateral,Healthcare,11.2,7.09,6,Analysis,37,Active
+PF-1146,Private Credit,Syndicated,Infrastructure,21.1,7.74,3,Closing,36,Active
+PF-1147,Private Credit,Syndicated,Technology,190.7,6.49,3,Received,34,Active
+PF-1148,Private Credit,Bilateral,Real Estate,50.6,6.79,3,Approval,8,Active
+PF-1149,Private Credit,Bilateral,Energy,155.3,5.8,2,Closing,8,Active
+PF-1150,Real Estate,Syndicated,Energy,21.0,9.35,7,Approval,6,Active
+PF-1151,Private Equity,Syndicated,Energy,35.2,7.91,5,Closing,43,Active
+PF-1152,Real Estate,Bilateral,Leisure,39.1,4.75,6,Admin,36,Active
+PF-1153,Private Credit,Bilateral,Technology,46.1,6.3,2,Admin,30,Active
+PF-1154,Real Estate,Syndicated,Telecom & Media,32.5,7.28,6,Admin,22,Active
+PF-1155,Private Equity,Syndicated,Real Estate,131.5,11.01,4,Closing,38,Active
+PF-1156,Private Equity,Syndicated,Infrastructure,45.2,4.66,2,Analysis,3,Active
+PF-1157,Private Equity,Bilateral,Healthcare,45.7,10.59,3,Analysis,20,Closed
+PF-1158,Private Credit,Bilateral,Technology,15.4,6.88,5,Admin,41,Active
+PF-1159,Real Estate,Syndicated,Leisure,66.4,6.3,7,Admin,29,Active
+PF-1160,Real Estate,Bilateral,Technology,34.3,5.21,2,Admin,15,Active
+PF-1161,Private Credit,Syndicated,Real Estate,25.8,5.6,6,Closing,21,Active
+PF-1162,Real Estate,Syndicated,Energy,100.5,10.58,2,Closing,7,On Hold
+PF-1163,Private Equity,Bilateral,Telecom & Media,47.7,8.21,2,Closing,18,Active
+PF-1164,Real Estate,Bilateral,Energy,42.8,10.11,2,Closing,26,Active
+PF-1165,Private Credit,Bilateral,Telecom & Media,6.4,6.28,2,Closing,35,Active
+PF-1166,Private Credit,Bilateral,Energy,39.0,6.82,4,Admin,9,Active
+PF-1167,Real Estate,Syndicated,Infrastructure,101.0,5.83,7,Approval,4,Active
+PF-1168,Private Equity,Bilateral,Infrastructure,39.0,4.7,3,Closing,13,Active
+PF-1169,Private Credit,Syndicated,Energy,13.8,9.11,2,Approval,36,Active
+PF-1170,Private Credit,Syndicated,Technology,53.8,7.31,2,Analysis,29,Active
+PF-1171,Private Credit,Syndicated,Technology,153.6,10.76,7,Analysis,37,Active
+PF-1172,Real Estate,Bilateral,Real Estate,30.0,9.11,3,Received,37,Active
+PF-1173,Private Equity,Syndicated,Real Estate,279.5,8.22,6,Approval,24,Active
+PF-1174,Private Credit,Syndicated,Infrastructure,35.7,11.04,7,Approval,31,Active
+PF-1175,Private Credit,Syndicated,Leisure,55.5,8.44,4,Approval,6,Active
+PF-1176,Private Credit,Bilateral,Real Estate,164.9,9.43,4,Approval,18,Active
+PF-1177,Private Equity,Syndicated,Energy,53.6,10.56,5,Analysis,30,On Hold
+PF-1178,Private Credit,Bilateral,Leisure,59.5,5.94,3,Admin,23,Active
+PF-1179,Private Equity,Syndicated,Healthcare,63.6,10.65,5,Analysis,7,On Hold
+PF-1180,Private Equity,Bilateral,Telecom & Media,92.2,9.12,7,Received,4,Active
+PF-1181,Real Estate,Syndicated,Leisure,219.3,10.09,3,Received,13,Active
+PF-1182,Private Equity,Bilateral,Leisure,54.3,7.12,4,Approval,13,Active
+PF-1183,Private Credit,Syndicated,Technology,27.7,5.23,3,Admin,21,Active
+PF-1184,Private Credit,Bilateral,Leisure,86.3,6.67,3,Admin,38,Active
+PF-1185,Real Estate,Syndicated,Leisure,171.8,8.74,5,Received,7,Active
+PF-1186,Private Credit,Syndicated,Real Estate,32.3,5.76,3,Admin,36,Active
+PF-1187,Real Estate,Bilateral,Energy,23.8,11.33,5,Admin,41,Active
+PF-1188,Private Credit,Bilateral,Real Estate,24.6,5.66,3,Admin,28,Active
+PF-1189,Private Credit,Bilateral,Real Estate,60.0,10.98,3,Closing,29,Active
+PF-1190,Private Equity,Bilateral,Energy,71.2,10.57,3,Admin,6,Active
+PF-1191,Private Credit,Bilateral,Energy,65.4,6.6,7,Closing,16,Active
+PF-1192,Real Estate,Bilateral,Healthcare,56.4,9.16,5,Closing,22,Closed
+PF-1193,Private Credit,Syndicated,Leisure,51.3,7.62,7,Received,26,Active
+PF-1194,Private Equity,Syndicated,Leisure,54.2,8.97,4,Received,15,Active
+PF-1195,Real Estate,Bilateral,Healthcare,48.8,10.99,4,Closing,4,Active
+PF-1196,Private Credit,Syndicated,Technology,29.2,4.71,5,Admin,15,Active
+PF-1197,Real Estate,Syndicated,Leisure,36.2,8.09,4,Analysis,11,Closed
+PF-1198,Real Estate,Bilateral,Healthcare,46.3,9.42,7,Received,43,Active
+PF-1199,Real Estate,Bilateral,Technology,113.4,5.17,6,Analysis,11,Active
+PF-1200,Private Credit,Bilateral,Real Estate,35.7,7.93,4,Admin,28,Active
+PF-1201,Private Credit,Bilateral,Infrastructure,397.2,10.63,7,Approval,14,Active
+PF-1202,Real Estate,Syndicated,Infrastructure,116.4,10.67,3,Closing,12,Active
+PF-1203,Real Estate,Bilateral,Healthcare,291.7,7.89,3,Closing,15,Active
+PF-1204,Private Credit,Syndicated,Telecom & Media,142.0,8.8,3,Admin,34,Active
+PF-1205,Private Credit,Bilateral,Energy,21.4,5.76,3,Approval,40,Active
+PF-1206,Real Estate,Syndicated,Healthcare,17.0,10.97,6,Closing,30,Active
+PF-1207,Private Credit,Syndicated,Healthcare,36.3,10.14,6,Admin,13,On Hold
+PF-1208,Real Estate,Syndicated,Healthcare,35.5,5.24,7,Closing,19,Active
+PF-1209,Private Equity,Bilateral,Real Estate,99.9,7.81,7,Analysis,39,Active
+PF-1210,Private Equity,Bilateral,Infrastructure,291.6,10.84,3,Admin,31,Active
+PF-1211,Private Equity,Syndicated,Technology,17.4,5.23,7,Admin,25,On Hold
+PF-1212,Private Equity,Syndicated,Infrastructure,80.7,10.39,2,Admin,2,Active
+PF-1213,Private Credit,Bilateral,Infrastructure,89.7,8.72,7,Analysis,17,Active
+PF-1214,Private Credit,Bilateral,Infrastructure,14.9,6.51,3,Admin,13,Active
+PF-1215,Private Credit,Bilateral,Healthcare,45.3,6.86,7,Approval,16,Active
+PF-1216,Private Credit,Bilateral,Telecom & Media,65.0,11.45,6,Analysis,29,Active
+PF-1217,Real Estate,Bilateral,Healthcare,77.4,9.56,3,Admin,14,Active
+PF-1218,Private Credit,Bilateral,Leisure,73.4,9.72,5,Closing,33,Active
+PF-1219,Private Credit,Bilateral,Infrastructure,34.4,5.02,3,Closing,14,Active
+PF-1220,Private Equity,Bilateral,Real Estate,47.3,9.61,6,Admin,14,Active
+PF-1221,Private Credit,Bilateral,Telecom & Media,16.7,5.13,3,Analysis,27,Active
+PF-1222,Private Equity,Syndicated,Infrastructure,15.3,10.14,5,Admin,19,On Hold
+PF-1223,Private Credit,Bilateral,Energy,23.2,6.22,2,Received,34,Active
+PF-1224,Private Credit,Syndicated,Leisure,49.5,6.78,5,Admin,23,Active
+PF-1225,Private Credit,Syndicated,Leisure,19.3,5.94,6,Analysis,5,Closed
+PF-1226,Private Equity,Syndicated,Energy,22.3,8.4,7,Closing,29,Active
+PF-1227,Private Credit,Syndicated,Telecom & Media,17.3,5.8,2,Admin,14,Closed
+PF-1228,Real Estate,Bilateral,Telecom & Media,31.2,9.0,4,Received,15,Active
+PF-1229,Real Estate,Syndicated,Healthcare,31.7,10.42,4,Received,27,Closed
+PF-1230,Private Credit,Syndicated,Healthcare,67.0,8.63,4,Approval,40,Closed
+PF-1231,Private Credit,Bilateral,Infrastructure,53.3,9.63,2,Admin,21,Active
+PF-1232,Real Estate,Bilateral,Telecom & Media,48.6,9.25,3,Admin,5,Active
+PF-1233,Private Credit,Bilateral,Real Estate,118.4,7.35,3,Admin,2,Active
+PF-1234,Private Credit,Syndicated,Leisure,41.2,9.56,5,Approval,31,Active
+PF-1235,Private Equity,Bilateral,Telecom & Media,27.2,11.11,7,Analysis,39,Closed
+PF-1236,Private Credit,Syndicated,Healthcare,60.0,7.38,2,Received,21,Active
+PF-1237,Private Credit,Syndicated,Energy,44.6,8.94,7,Closing,9,Active
+PF-1238,Real Estate,Syndicated,Real Estate,31.9,6.19,3,Analysis,13,Active
+PF-1239,Private Credit,Syndicated,Healthcare,67.8,5.54,4,Closing,13,Active
+PF-1240,Private Credit,Syndicated,Leisure,26.5,5.58,4,Received,25,Active
+PF-1241,Real Estate,Bilateral,Healthcare,77.7,9.9,5,Admin,40,Active
+PF-1242,Real Estate,Syndicated,Telecom & Media,19.2,8.41,5,Analysis,1,Active
+PF-1243,Private Credit,Bilateral,Leisure,79.6,8.19,6,Admin,40,Active
+PF-1244,Private Credit,Syndicated,Technology,278.4,5.05,2,Analysis,25,Active
+PF-1245,Private Credit,Syndicated,Technology,63.0,9.37,5,Analysis,30,Active
+PF-1246,Real Estate,Syndicated,Real Estate,44.6,10.33,2,Received,31,Active
+PF-1247,Real Estate,Bilateral,Healthcare,53.6,6.13,4,Admin,35,Active
+PF-1248,Private Equity,Bilateral,Leisure,39.7,8.81,4,Approval,5,Active
+PF-1249,Private Credit,Syndicated,Energy,9.5,7.39,3,Analysis,20,On Hold
+PF-1250,Private Credit,Syndicated,Healthcare,50.3,6.78,4,Admin,38,Active
+PF-1251,Private Equity,Bilateral,Leisure,104.5,9.88,4,Approval,12,Closed
+PF-1252,Private Credit,Syndicated,Leisure,41.5,5.15,5,Analysis,18,Active
+PF-1253,Real Estate,Bilateral,Infrastructure,36.2,6.05,4,Admin,15,Active
+PF-1254,Real Estate,Syndicated,Technology,15.7,5.11,4,Closing,13,Active
+PF-1255,Private Equity,Syndicated,Energy,24.1,6.11,7,Received,5,Active
+PF-1256,Private Credit,Bilateral,Healthcare,29.8,10.8,2,Closing,12,Active
+PF-1257,Private Equity,Bilateral,Technology,48.3,9.81,7,Analysis,20,Active
+PF-1258,Private Credit,Bilateral,Real Estate,76.7,8.02,5,Approval,1,Active
+PF-1259,Real Estate,Bilateral,Technology,81.4,7.87,2,Approval,8,Active
+PF-1260,Real Estate,Bilateral,Real Estate,19.5,5.4,3,Admin,41,Closed
+PF-1261,Private Credit,Syndicated,Energy,29.0,6.25,7,Analysis,8,Active
+PF-1262,Private Equity,Syndicated,Energy,64.4,9.26,2,Admin,10,Active
+PF-1263,Private Credit,Syndicated,Energy,63.8,10.99,7,Closing,27,Active
+PF-1264,Private Credit,Syndicated,Energy,25.9,4.89,7,Received,19,Active
+PF-1265,Private Equity,Bilateral,Infrastructure,53.4,9.73,7,Approval,44,Active
+PF-1266,Private Credit,Syndicated,Healthcare,61.6,11.13,2,Admin,44,Active
+PF-1267,Real Estate,Bilateral,Energy,84.4,7.39,4,Approval,14,Active
+PF-1268,Private Equity,Bilateral,Energy,35.2,7.33,4,Admin,29,Active
+PF-1269,Real Estate,Bilateral,Technology,20.6,4.83,6,Approval,37,Active
+PF-1270,Private Credit,Bilateral,Technology,80.4,7.66,7,Admin,6,Active
+PF-1271,Real Estate,Bilateral,Real Estate,20.2,6.46,4,Approval,30,Active
+PF-1272,Private Credit,Syndicated,Technology,56.3,4.79,2,Analysis,24,Active
+PF-1273,Private Equity,Bilateral,Leisure,29.3,9.19,3,Closing,40,Active
+PF-1274,Private Equity,Syndicated,Real Estate,13.0,9.5,5,Analysis,21,Active
+PF-1275,Private Credit,Bilateral,Leisure,44.5,5.1,7,Received,7,Active
+PF-1276,Private Equity,Bilateral,Healthcare,36.5,7.11,4,Analysis,34,Active
+PF-1277,Private Equity,Bilateral,Infrastructure,54.2,10.72,6,Closing,31,Active
+PF-1278,Private Credit,Syndicated,Real Estate,28.9,9.16,7,Approval,1,Active
+PF-1279,Private Credit,Syndicated,Infrastructure,26.5,5.25,5,Admin,17,Active
+PF-1280,Private Credit,Bilateral,Energy,182.4,5.46,6,Received,19,Active
+PF-1281,Private Credit,Bilateral,Infrastructure,49.4,7.49,4,Admin,30,Closed
+PF-1282,Private Credit,Syndicated,Energy,48.6,6.66,6,Admin,4,Active
+PF-1283,Private Credit,Bilateral,Technology,74.5,10.56,3,Analysis,2,Active
+PF-1284,Real Estate,Bilateral,Technology,31.0,8.76,3,Approval,43,Active
+PF-1285,Private Credit,Syndicated,Energy,203.1,6.59,2,Closing,20,Active
+PF-1286,Private Credit,Syndicated,Leisure,19.4,10.18,2,Admin,14,Active
+PF-1287,Private Credit,Syndicated,Telecom & Media,49.9,10.68,2,Closing,44,Active
+PF-1288,Private Credit,Syndicated,Technology,82.5,8.54,5,Approval,6,Closed
+PF-1289,Private Credit,Bilateral,Telecom & Media,95.5,10.33,3,Closing,29,Active
+PF-1290,Real Estate,Bilateral,Telecom & Media,45.9,7.0,2,Approval,35,Active
+PF-1291,Private Equity,Syndicated,Telecom & Media,22.6,10.62,6,Analysis,8,On Hold
+PF-1292,Private Equity,Syndicated,Telecom & Media,49.7,6.57,4,Admin,25,Active
+PF-1293,Real Estate,Syndicated,Energy,9.5,6.52,6,Admin,2,Active
+PF-1294,Real Estate,Bilateral,Infrastructure,74.8,5.45,7,Admin,42,Active
+PF-1295,Private Credit,Bilateral,Telecom & Media,331.0,6.15,4,Admin,36,Closed
+PF-1296,Real Estate,Syndicated,Real Estate,166.3,10.34,3,Closing,17,Active
+PF-1297,Private Credit,Syndicated,Healthcare,45.4,7.95,2,Admin,2,Active
+PF-1298,Private Equity,Bilateral,Infrastructure,34.9,11.23,2,Admin,11,Active
+PF-1299,Private Credit,Syndicated,Healthcare,85.8,4.95,2,Admin,18,Active
+PF-1300,Private Credit,Syndicated,Real Estate,110.7,10.83,3,Admin,37,Active
+PF-1301,Private Credit,Bilateral,Technology,102.6,7.69,2,Received,39,Closed
+PF-1302,Private Equity,Bilateral,Energy,45.1,10.8,7,Analysis,38,Closed
+PF-1303,Private Credit,Bilateral,Infrastructure,15.4,7.99,4,Admin,40,Active
+PF-1304,Private Equity,Bilateral,Telecom & Media,28.0,9.02,3,Analysis,24,Closed
+PF-1305,Private Credit,Bilateral,Leisure,95.2,10.5,7,Analysis,31,Active
+PF-1306,Private Credit,Bilateral,Leisure,133.5,8.06,5,Admin,21,Active
+PF-1307,Private Credit,Bilateral,Energy,61.6,4.54,5,Admin,42,Active
+PF-1308,Real Estate,Syndicated,Infrastructure,38.1,5.04,7,Analysis,29,Closed
+PF-1309,Private Equity,Syndicated,Energy,28.5,5.09,4,Received,22,Active
+PF-1310,Private Credit,Bilateral,Leisure,79.8,8.07,7,Received,33,Active
+PF-1311,Private Equity,Syndicated,Energy,110.4,7.63,7,Analysis,1,Active
+PF-1312,Private Credit,Syndicated,Healthcare,8.5,10.54,5,Admin,14,Active
+PF-1313,Private Equity,Syndicated,Technology,17.2,11.47,5,Analysis,29,Active
+PF-1314,Real Estate,Bilateral,Leisure,89.2,8.88,6,Received,30,Active
+PF-1315,Private Credit,Bilateral,Leisure,97.9,10.52,2,Admin,6,Active
+PF-1316,Real Estate,Bilateral,Telecom & Media,33.9,8.41,7,Admin,27,Active
+PF-1317,Real Estate,Syndicated,Healthcare,21.6,9.01,4,Received,31,Active
+PF-1318,Private Credit,Syndicated,Energy,52.8,7.93,2,Received,19,Active
+PF-1319,Private Credit,Syndicated,Real Estate,48.3,10.05,4,Admin,16,Active
+PF-1320,Private Equity,Syndicated,Infrastructure,21.3,6.21,2,Closing,3,Active
+PF-1321,Real Estate,Bilateral,Leisure,156.8,10.01,4,Closing,39,Active
+PF-1322,Private Credit,Syndicated,Energy,17.2,10.71,4,Admin,16,Active
+PF-1323,Real Estate,Bilateral,Real Estate,11.9,7.09,3,Approval,11,Active
+PF-1324,Private Credit,Bilateral,Leisure,74.9,8.57,5,Admin,4,Active
+PF-1325,Private Credit,Bilateral,Infrastructure,15.2,5.02,5,Received,40,Active
+PF-1326,Real Estate,Bilateral,Real Estate,69.0,10.27,7,Received,18,Active
+PF-1327,Private Credit,Bilateral,Technology,27.4,8.93,4,Approval,1,Active
+PF-1328,Private Credit,Bilateral,Leisure,93.9,9.54,2,Approval,31,Active
+PF-1329,Real Estate,Syndicated,Leisure,75.3,6.2,4,Approval,43,Active
+PF-1330,Private Credit,Bilateral,Leisure,100.5,8.64,7,Approval,9,Active
+PF-1331,Real Estate,Bilateral,Leisure,18.6,4.61,2,Analysis,6,Active
+PF-1332,Private Credit,Syndicated,Telecom & Media,29.3,7.87,7,Analysis,21,Active
+PF-1333,Private Credit,Bilateral,Healthcare,35.2,10.76,7,Analysis,12,Active
+PF-1334,Real Estate,Syndicated,Energy,28.2,9.7,7,Approval,19,Active
+PF-1335,Private Credit,Syndicated,Healthcare,7.7,8.15,6,Closing,4,Active
+PF-1336,Private Equity,Bilateral,Energy,53.4,7.87,4,Closing,29,Active
+PF-1337,Private Equity,Syndicated,Telecom & Media,15.4,6.8,4,Admin,19,Active
+PF-1338,Private Equity,Bilateral,Technology,130.9,11.44,4,Admin,44,Closed
+PF-1339,Real Estate,Syndicated,Telecom & Media,159.8,10.8,6,Analysis,11,Active
+PF-1340,Real Estate,Syndicated,Healthcare,25.9,10.32,2,Approval,41,Active
+PF-1341,Private Credit,Syndicated,Real Estate,32.1,5.69,6,Closing,28,Active
+PF-1342,Private Credit,Syndicated,Leisure,20.7,7.26,6,Approval,40,Closed
+PF-1343,Private Credit,Syndicated,Technology,44.3,11.18,7,Analysis,12,Closed
+PF-1344,Private Credit,Bilateral,Energy,120.7,7.69,4,Closing,40,Active
+PF-1345,Private Credit,Bilateral,Healthcare,14.9,5.64,2,Analysis,8,Active
+PF-1346,Private Equity,Syndicated,Real Estate,74.2,9.68,5,Closing,10,Active
+PF-1347,Private Credit,Bilateral,Infrastructure,58.5,6.74,3,Admin,8,Active
+PF-1348,Private Credit,Syndicated,Leisure,29.9,8.93,7,Closing,15,Active
+PF-1349,Real Estate,Bilateral,Healthcare,17.5,10.3,6,Approval,21,Active
+PF-1350,Private Credit,Syndicated,Leisure,113.4,11.45,3,Admin,40,Closed
+PF-1351,Real Estate,Bilateral,Technology,29.0,7.49,5,Closing,5,Active
+PF-1352,Real Estate,Syndicated,Infrastructure,127.7,5.47,2,Approval,12,Active
+PF-1353,Real Estate,Syndicated,Technology,99.6,7.55,5,Closing,8,Active
+PF-1354,Private Equity,Bilateral,Leisure,36.7,7.88,4,Analysis,4,Active
+PF-1355,Real Estate,Bilateral,Technology,50.5,5.43,7,Closing,42,Closed
+PF-1356,Private Credit,Bilateral,Energy,34.2,10.39,6,Approval,38,Active
+PF-1357,Real Estate,Bilateral,Real Estate,80.5,5.75,6,Analysis,41,Active
+PF-1358,Private Credit,Bilateral,Leisure,29.1,6.26,6,Admin,42,On Hold
+PF-1359,Private Equity,Syndicated,Energy,18.9,5.27,4,Admin,23,Active
+PF-1360,Private Equity,Syndicated,Healthcare,61.3,10.6,2,Analysis,15,On Hold
+PF-1361,Private Credit,Syndicated,Energy,113.5,6.35,7,Admin,5,On Hold
+PF-1362,Real Estate,Syndicated,Healthcare,88.1,7.86,5,Analysis,4,Active
+PF-1363,Real Estate,Syndicated,Telecom & Media,31.6,4.63,6,Analysis,23,Closed
+PF-1364,Real Estate,Syndicated,Healthcare,96.4,8.01,5,Analysis,41,Active
+PF-1365,Real Estate,Bilateral,Telecom & Media,101.9,10.61,7,Closing,14,On Hold
+PF-1366,Private Credit,Syndicated,Technology,25.4,6.5,7,Analysis,9,Active
+PF-1367,Private Equity,Bilateral,Real Estate,44.6,9.87,7,Analysis,8,Active
+PF-1368,Private Equity,Syndicated,Leisure,56.3,5.52,3,Analysis,9,Active
+PF-1369,Private Credit,Bilateral,Energy,29.4,9.67,5,Received,16,Active
+PF-1370,Private Equity,Syndicated,Technology,119.4,7.16,6,Closing,15,Active
+PF-1371,Private Credit,Bilateral,Telecom & Media,11.1,6.93,2,Analysis,12,Active
+PF-1372,Private Equity,Syndicated,Real Estate,20.4,8.81,4,Admin,25,Active
+PF-1373,Private Equity,Syndicated,Real Estate,17.5,6.11,3,Closing,41,Active
+PF-1374,Private Credit,Syndicated,Infrastructure,52.9,8.28,6,Received,4,Active
+PF-1375,Real Estate,Syndicated,Technology,168.8,9.22,3,Closing,42,Closed
+PF-1376,Real Estate,Syndicated,Technology,39.5,8.19,5,Closing,4,Active
+PF-1377,Private Credit,Bilateral,Energy,125.3,5.93,4,Analysis,19,Active
+PF-1378,Private Equity,Syndicated,Real Estate,48.6,6.5,2,Received,6,Active
+PF-1379,Private Equity,Bilateral,Energy,80.5,8.11,4,Admin,11,Active
+PF-1380,Private Equity,Syndicated,Telecom & Media,23.4,11.03,5,Approval,5,Closed
+PF-1381,Private Equity,Syndicated,Real Estate,24.3,8.09,4,Approval,28,Active
+PF-1382,Private Credit,Syndicated,Healthcare,33.9,11.06,2,Received,36,Active
+PF-1383,Private Equity,Bilateral,Leisure,11.2,9.1,6,Closing,14,Active
+PF-1384,Real Estate,Bilateral,Telecom & Media,38.3,11.05,3,Analysis,27,Active
+PF-1385,Private Equity,Syndicated,Infrastructure,43.8,11.08,4,Approval,18,Active
+PF-1386,Real Estate,Syndicated,Leisure,24.5,4.97,7,Closing,33,Active
+PF-1387,Private Equity,Bilateral,Infrastructure,43.0,10.47,6,Received,44,Active
+PF-1388,Private Credit,Syndicated,Real Estate,128.3,7.4,2,Admin,28,Active
+PF-1389,Real Estate,Bilateral,Leisure,65.7,8.85,7,Approval,11,Active
+PF-1390,Private Credit,Bilateral,Real Estate,18.0,6.99,7,Admin,32,Active
+PF-1391,Real Estate,Syndicated,Telecom & Media,108.8,6.16,7,Approval,19,Active
+PF-1392,Private Equity,Bilateral,Telecom & Media,13.9,9.46,3,Approval,20,Active
+PF-1393,Private Credit,Bilateral,Leisure,32.9,9.21,7,Analysis,16,Active
+PF-1394,Private Credit,Syndicated,Technology,52.8,6.51,3,Admin,5,Active
+PF-1395,Real Estate,Syndicated,Energy,45.0,6.13,2,Analysis,36,Active
+PF-1396,Real Estate,Syndicated,Leisure,49.8,6.83,4,Admin,8,Active
+PF-1397,Private Credit,Syndicated,Technology,23.3,6.83,3,Approval,37,Active
+PF-1398,Real Estate,Bilateral,Energy,36.6,8.93,5,Admin,15,Active
+PF-1399,Real Estate,Bilateral,Healthcare,92.0,4.67,7,Analysis,12,Active
+PF-1400,Real Estate,Bilateral,Leisure,80.8,10.52,3,Approval,15,Active
+PF-1401,Private Credit,Syndicated,Leisure,5.1,7.73,4,Admin,40,Active
+PF-1402,Real Estate,Syndicated,Infrastructure,48.9,9.88,4,Approval,40,Closed
+PF-1403,Private Equity,Bilateral,Real Estate,28.2,8.08,7,Closing,3,Active
+PF-1404,Private Credit,Bilateral,Leisure,62.3,5.06,2,Approval,36,Closed
+PF-1405,Real Estate,Syndicated,Real Estate,14.9,9.71,3,Analysis,19,Active
+PF-1406,Private Equity,Syndicated,Telecom & Media,43.8,9.63,4,Analysis,22,Active
+PF-1407,Private Credit,Syndicated,Technology,7.2,5.12,7,Analysis,30,Active
+PF-1408,Private Credit,Syndicated,Healthcare,39.5,8.52,5,Analysis,32,Active
+PF-1409,Private Credit,Syndicated,Real Estate,63.3,10.99,7,Closing,36,Active
+PF-1410,Private Equity,Syndicated,Leisure,22.9,4.51,2,Admin,1,Active
+PF-1411,Private Equity,Bilateral,Energy,136.3,10.73,2,Received,11,Closed
+PF-1412,Private Credit,Syndicated,Real Estate,32.3,10.19,3,Received,28,On Hold
+PF-1413,Private Equity,Bilateral,Telecom & Media,26.0,10.18,3,Closing,40,Active
+PF-1414,Private Credit,Syndicated,Real Estate,47.6,5.84,4,Analysis,14,Active
+PF-1415,Real Estate,Bilateral,Real Estate,31.5,6.0,3,Approval,18,Active
+PF-1416,Real Estate,Bilateral,Real Estate,17.3,6.25,5,Closing,11,Active
+PF-1417,Private Equity,Bilateral,Leisure,56.9,9.09,4,Analysis,29,Active
+PF-1418,Real Estate,Syndicated,Telecom & Media,123.2,11.26,3,Approval,33,Closed
+PF-1419,Real Estate,Bilateral,Leisure,207.0,11.31,5,Approval,7,On Hold
+PF-1420,Private Credit,Bilateral,Telecom & Media,30.6,5.68,4,Admin,31,Active
+PF-1421,Real Estate,Bilateral,Real Estate,14.2,5.21,4,Closing,26,Active
+PF-1422,Private Equity,Bilateral,Energy,61.4,5.99,3,Analysis,1,Active
+PF-1423,Real Estate,Syndicated,Healthcare,48.0,6.88,3,Admin,39,Active
+PF-1424,Private Equity,Bilateral,Telecom & Media,8.8,4.61,6,Approval,11,Active
+PF-1425,Real Estate,Syndicated,Telecom & Media,173.5,6.16,6,Admin,5,On Hold
+PF-1426,Private Credit,Syndicated,Leisure,68.2,10.32,2,Closing,30,Active
+PF-1427,Private Credit,Syndicated,Telecom & Media,49.9,5.91,3,Closing,14,Active
+PF-1428,Private Credit,Syndicated,Infrastructure,44.6,6.83,7,Admin,6,Active
+PF-1429,Private Credit,Bilateral,Energy,53.7,5.21,3,Admin,22,Closed
+PF-1430,Private Equity,Bilateral,Leisure,57.8,5.86,2,Admin,23,Active
+PF-1431,Private Credit,Bilateral,Real Estate,46.9,5.13,5,Closing,24,Active
+PF-1432,Private Equity,Bilateral,Real Estate,32.6,7.78,6,Approval,1,Active
+PF-1433,Private Equity,Syndicated,Infrastructure,57.9,10.63,6,Analysis,39,Closed
+PF-1434,Real Estate,Syndicated,Technology,123.8,11.24,3,Analysis,25,Active
+PF-1435,Private Credit,Bilateral,Technology,83.9,4.93,4,Admin,42,On Hold
+PF-1436,Real Estate,Syndicated,Healthcare,58.2,6.3,7,Admin,23,Active
+PF-1437,Private Equity,Bilateral,Healthcare,65.9,9.74,6,Approval,24,Active
+PF-1438,Private Equity,Syndicated,Energy,18.5,11.15,5,Approval,31,Active
+PF-1439,Real Estate,Syndicated,Healthcare,89.9,8.23,2,Analysis,25,Active
+PF-1440,Real Estate,Bilateral,Healthcare,34.1,5.47,3,Received,11,Closed
+PF-1441,Private Credit,Syndicated,Healthcare,42.6,7.76,6,Analysis,7,Active
+PF-1442,Real Estate,Syndicated,Telecom & Media,16.3,10.81,2,Admin,13,Active
+PF-1443,Private Credit,Syndicated,Telecom & Media,20.3,5.45,5,Analysis,9,Active
+PF-1444,Real Estate,Bilateral,Technology,101.6,4.67,4,Approval,33,On Hold
+PF-1445,Real Estate,Bilateral,Real Estate,55.5,10.37,2,Admin,9,Active
+PF-1446,Private Equity,Bilateral,Infrastructure,62.2,7.84,6,Admin,35,Active
+PF-1447,Real Estate,Syndicated,Infrastructure,20.1,9.41,3,Closing,33,Active
+PF-1448,Private Equity,Syndicated,Infrastructure,60.0,7.98,3,Received,41,Active
+PF-1449,Private Equity,Syndicated,Infrastructure,71.4,8.7,2,Closing,33,Active
+PF-1450,Private Credit,Bilateral,Healthcare,59.4,8.45,4,Received,38,On Hold
+PF-1451,Private Credit,Syndicated,Technology,111.2,8.42,7,Received,15,Active
+PF-1452,Real Estate,Syndicated,Telecom & Media,54.7,7.91,2,Approval,39,Active
+PF-1453,Real Estate,Bilateral,Leisure,42.2,9.16,6,Admin,2,Active
+PF-1454,Private Equity,Syndicated,Infrastructure,20.9,7.85,7,Admin,36,Active
+PF-1455,Private Credit,Bilateral,Real Estate,16.4,9.52,6,Received,27,Active
+PF-1456,Private Equity,Bilateral,Healthcare,36.6,8.43,7,Approval,2,Active
+PF-1457,Private Equity,Bilateral,Technology,46.8,4.85,6,Analysis,2,Active
+PF-1458,Private Credit,Bilateral,Healthcare,33.0,8.06,2,Admin,14,On Hold
+PF-1459,Private Credit,Bilateral,Leisure,45.8,10.15,7,Admin,9,Active
+PF-1460,Private Equity,Bilateral,Real Estate,33.0,10.91,6,Admin,23,Active
+PF-1461,Private Credit,Syndicated,Real Estate,45.9,9.08,2,Admin,1,Active
+PF-1462,Real Estate,Syndicated,Real Estate,50.3,10.54,2,Received,19,Active
+PF-1463,Private Credit,Syndicated,Infrastructure,37.7,7.48,6,Analysis,35,Active
+PF-1464,Real Estate,Bilateral,Leisure,218.3,10.49,2,Admin,35,Active
+PF-1465,Real Estate,Syndicated,Real Estate,7.9,5.87,7,Approval,36,On Hold
+PF-1466,Private Credit,Bilateral,Telecom & Media,91.1,7.83,6,Closing,27,Active
+PF-1467,Private Equity,Bilateral,Real Estate,36.6,6.01,6,Analysis,36,Active
+PF-1468,Private Equity,Syndicated,Energy,33.8,8.5,2,Admin,38,Active
+PF-1469,Private Equity,Bilateral,Real Estate,52.0,10.72,2,Analysis,8,Closed
+PF-1470,Private Credit,Syndicated,Leisure,100.7,10.53,6,Admin,21,Closed
+PF-1471,Real Estate,Syndicated,Real Estate,51.2,7.75,7,Analysis,5,Active
+PF-1472,Real Estate,Bilateral,Infrastructure,60.5,6.15,5,Received,20,Active
+PF-1473,Private Credit,Syndicated,Infrastructure,52.2,9.5,6,Analysis,32,Active
+PF-1474,Real Estate,Bilateral,Infrastructure,73.7,6.81,2,Received,26,Active
+PF-1475,Private Credit,Bilateral,Telecom & Media,41.1,5.15,3,Approval,11,Active
+PF-1476,Private Credit,Bilateral,Leisure,23.3,10.47,7,Approval,35,Active
+PF-1477,Private Equity,Syndicated,Energy,45.5,7.79,3,Approval,11,Active
+PF-1478,Real Estate,Syndicated,Leisure,29.1,7.93,7,Analysis,12,Closed
+PF-1479,Real Estate,Bilateral,Infrastructure,31.4,7.09,2,Analysis,28,Active
+PF-1480,Private Equity,Syndicated,Real Estate,40.7,10.65,3,Approval,19,Active
+PF-1481,Real Estate,Syndicated,Energy,34.8,7.37,3,Closing,22,Active
+PF-1482,Private Credit,Bilateral,Infrastructure,16.4,11.06,5,Closing,26,Active
+PF-1483,Private Equity,Bilateral,Energy,49.4,9.98,3,Analysis,32,Active
+PF-1484,Private Equity,Bilateral,Healthcare,31.1,7.14,3,Admin,34,Active
+PF-1485,Private Equity,Syndicated,Real Estate,46.3,11.44,7,Approval,22,Active
+PF-1486,Private Equity,Bilateral,Infrastructure,56.5,5.94,3,Admin,18,Active
+PF-1487,Private Credit,Bilateral,Healthcare,26.2,9.65,4,Closing,31,Closed
+PF-1488,Real Estate,Syndicated,Infrastructure,50.6,10.08,4,Admin,36,Active
+PF-1489,Private Credit,Syndicated,Leisure,55.9,11.35,6,Approval,7,Closed
+PF-1490,Real Estate,Bilateral,Technology,13.5,11.37,6,Admin,3,Active
+PF-1491,Private Credit,Bilateral,Leisure,95.5,8.04,5,Closing,43,Active
+PF-1492,Private Equity,Bilateral,Leisure,45.9,8.08,4,Closing,31,Active
+PF-1493,Private Credit,Syndicated,Infrastructure,53.5,7.46,5,Closing,38,Active
+PF-1494,Private Credit,Bilateral,Healthcare,7.8,9.49,2,Closing,42,Active
+PF-1495,Private Credit,Syndicated,Telecom & Media,89.7,9.85,2,Admin,13,Active
+PF-1496,Private Credit,Bilateral,Infrastructure,5.2,8.17,6,Analysis,34,Active
+PF-1497,Private Equity,Bilateral,Leisure,48.1,8.84,3,Analysis,44,Active
+PF-1498,Private Credit,Syndicated,Real Estate,34.6,6.95,5,Approval,34,Active
+PF-1499,Private Credit,Bilateral,Leisure,39.2,9.21,3,Received,41,Active
+PF-1500,Private Credit,Syndicated,Telecom & Media,6.2,8.24,6,Closing,10,Active
+PF-1501,Private Credit,Syndicated,Healthcare,81.1,7.51,2,Analysis,12,Active
+PF-1502,Real Estate,Bilateral,Telecom & Media,51.5,6.07,7,Approval,33,Closed
+PF-1503,Private Equity,Bilateral,Technology,44.9,7.22,4,Admin,30,Active
+PF-1504,Private Credit,Bilateral,Infrastructure,58.5,7.65,7,Received,31,On Hold
+PF-1505,Real Estate,Bilateral,Technology,118.0,10.04,7,Admin,1,Active
+PF-1506,Real Estate,Bilateral,Telecom & Media,23.4,9.62,7,Closing,19,Active
+PF-1507,Real Estate,Syndicated,Real Estate,43.7,7.62,7,Closing,2,Closed
+PF-1508,Private Equity,Bilateral,Real Estate,142.8,5.95,3,Received,42,Active
+PF-1509,Real Estate,Bilateral,Technology,52.6,4.76,6,Closing,16,Closed
+PF-1510,Private Equity,Bilateral,Technology,27.3,6.43,6,Admin,22,Active
+PF-1511,Private Credit,Bilateral,Healthcare,44.4,7.39,4,Approval,42,Active
+PF-1512,Private Credit,Bilateral,Telecom & Media,18.7,11.34,6,Admin,40,Active
+PF-1513,Private Equity,Syndicated,Technology,195.3,6.94,4,Admin,4,Active
+PF-1514,Real Estate,Bilateral,Healthcare,177.6,6.85,4,Closing,12,Active
+PF-1515,Private Credit,Syndicated,Technology,139.8,5.27,2,Approval,35,Active
+PF-1516,Real Estate,Syndicated,Telecom & Media,155.8,6.46,2,Approval,29,Active
+PF-1517,Private Equity,Bilateral,Technology,26.3,6.53,4,Closing,6,Active
+PF-1518,Private Credit,Bilateral,Real Estate,82.0,5.14,4,Admin,21,Active
+PF-1519,Private Credit,Bilateral,Telecom & Media,68.4,11.42,3,Analysis,19,Active
+PF-1520,Private Equity,Bilateral,Technology,46.1,5.49,4,Approval,37,Closed
+PF-1521,Private Credit,Syndicated,Telecom & Media,120.1,4.73,5,Analysis,29,Closed
+PF-1522,Private Credit,Bilateral,Leisure,128.9,10.88,7,Received,18,Active
+PF-1523,Private Equity,Bilateral,Real Estate,64.1,9.2,5,Analysis,1,Active
+PF-1524,Real Estate,Bilateral,Energy,59.6,5.86,4,Admin,11,Active
+PF-1525,Real Estate,Bilateral,Real Estate,24.0,4.57,7,Closing,13,On Hold
+PF-1526,Private Equity,Syndicated,Healthcare,89.5,9.92,7,Received,19,Active
+PF-1527,Real Estate,Syndicated,Real Estate,19.4,11.2,2,Admin,25,Active
+PF-1528,Private Equity,Syndicated,Healthcare,99.8,9.76,5,Analysis,13,Closed
+PF-1529,Real Estate,Syndicated,Infrastructure,152.3,9.62,6,Admin,5,Closed
+PF-1530,Private Credit,Syndicated,Technology,14.9,5.4,4,Closing,28,Active
+PF-1531,Real Estate,Syndicated,Infrastructure,81.7,10.54,2,Admin,44,Active
+PF-1532,Private Credit,Syndicated,Leisure,98.0,5.15,2,Analysis,12,Active
+PF-1533,Real Estate,Bilateral,Real Estate,47.5,7.62,5,Admin,6,Active
+PF-1534,Private Credit,Syndicated,Leisure,51.0,7.94,5,Approval,5,Active
+PF-1535,Private Credit,Bilateral,Healthcare,16.2,5.97,7,Analysis,31,Active
+PF-1536,Private Credit,Syndicated,Telecom & Media,36.2,9.8,4,Closing,6,Active
+PF-1537,Private Credit,Syndicated,Energy,17.7,6.01,7,Closing,30,Active
+PF-1538,Real Estate,Syndicated,Real Estate,54.5,7.15,7,Analysis,34,Active
+PF-1539,Private Credit,Bilateral,Infrastructure,33.0,10.59,3,Approval,13,Closed
+PF-1540,Real Estate,Bilateral,Telecom & Media,44.4,5.6,6,Analysis,28,Active
+PF-1541,Private Equity,Bilateral,Real Estate,80.5,4.87,6,Admin,44,Active
+PF-1542,Real Estate,Syndicated,Technology,52.1,4.92,4,Admin,1,Active
+PF-1543,Private Credit,Syndicated,Healthcare,69.3,7.79,6,Approval,33,Active
+PF-1544,Private Equity,Syndicated,Healthcare,24.1,6.75,4,Analysis,42,Active
+PF-1545,Private Equity,Bilateral,Infrastructure,112.0,5.85,5,Received,22,Active
+PF-1546,Real Estate,Bilateral,Energy,50.0,10.46,5,Admin,30,Active
+PF-1547,Private Credit,Syndicated,Infrastructure,33.4,8.77,4,Received,30,Active
+PF-1548,Private Equity,Syndicated,Telecom & Media,35.1,5.95,3,Received,8,Active
+PF-1549,Real Estate,Syndicated,Infrastructure,110.1,8.03,6,Approval,13,Active
+PF-1550,Private Equity,Bilateral,Real Estate,38.2,9.55,3,Closing,42,Active
+PF-1551,Private Credit,Bilateral,Energy,87.9,7.99,6,Approval,33,Active
+PF-1552,Private Credit,Bilateral,Technology,103.9,5.91,3,Approval,19,Active
+PF-1553,Real Estate,Syndicated,Technology,35.8,8.4,4,Admin,32,Active
+PF-1554,Real Estate,Bilateral,Infrastructure,86.5,7.3,6,Received,37,Active
+PF-1555,Private Credit,Bilateral,Infrastructure,254.5,8.87,2,Closing,8,Active
+PF-1556,Private Equity,Bilateral,Real Estate,84.5,10.72,5,Approval,13,Active
+PF-1557,Real Estate,Syndicated,Real Estate,48.5,11.29,2,Analysis,32,Active
+PF-1558,Private Credit,Bilateral,Leisure,14.2,9.99,2,Received,10,Closed
+PF-1559,Private Credit,Bilateral,Healthcare,380.8,10.58,4,Received,33,Active
+PF-1560,Private Credit,Syndicated,Infrastructure,366.3,5.94,6,Admin,30,Active
+PF-1561,Real Estate,Bilateral,Infrastructure,12.9,4.68,7,Analysis,11,Closed
+PF-1562,Private Credit,Bilateral,Telecom & Media,206.2,9.16,7,Received,20,Active
+PF-1563,Private Credit,Bilateral,Healthcare,14.9,9.34,5,Admin,16,Active
+PF-1564,Private Credit,Bilateral,Healthcare,41.7,6.96,5,Admin,17,Active
+PF-1565,Private Equity,Syndicated,Infrastructure,38.2,9.82,4,Admin,38,Active
+PF-1566,Private Credit,Syndicated,Infrastructure,9.8,6.56,3,Analysis,8,On Hold
+PF-1567,Private Credit,Syndicated,Infrastructure,51.5,5.76,4,Admin,3,Closed
+PF-1568,Private Equity,Syndicated,Healthcare,53.8,8.18,2,Received,32,Active
+PF-1569,Private Credit,Syndicated,Technology,45.6,6.37,5,Approval,28,On Hold
+PF-1570,Private Credit,Syndicated,Leisure,141.8,4.89,3,Approval,41,Active
+PF-1571,Private Credit,Bilateral,Telecom & Media,62.2,5.98,6,Received,26,Active
+PF-1572,Private Credit,Bilateral,Healthcare,62.0,10.11,2,Received,33,Active
+PF-1573,Private Credit,Bilateral,Telecom & Media,48.5,4.63,6,Received,18,Active
+PF-1574,Private Credit,Bilateral,Real Estate,142.1,7.25,4,Admin,29,Active
+PF-1575,Real Estate,Bilateral,Technology,62.3,10.62,3,Closing,24,Active
+PF-1576,Private Credit,Syndicated,Energy,44.0,8.54,2,Admin,39,Active
+PF-1577,Private Equity,Syndicated,Real Estate,31.3,10.94,4,Admin,33,Active
+PF-1578,Private Equity,Syndicated,Energy,121.3,7.37,2,Approval,40,Active
+PF-1579,Real Estate,Syndicated,Leisure,133.6,7.4,5,Admin,24,Closed
+PF-1580,Real Estate,Bilateral,Real Estate,48.4,5.24,2,Analysis,18,Active
+PF-1581,Real Estate,Syndicated,Energy,16.2,8.44,4,Admin,28,Active
+PF-1582,Real Estate,Syndicated,Infrastructure,134.0,10.5,3,Approval,8,Active
+PF-1583,Private Equity,Bilateral,Telecom & Media,63.8,5.24,6,Admin,38,Active
+PF-1584,Real Estate,Bilateral,Technology,100.1,7.82,7,Analysis,25,Active
+PF-1585,Real Estate,Bilateral,Healthcare,72.1,6.96,6,Admin,10,Active
+PF-1586,Private Equity,Bilateral,Technology,250.1,7.26,5,Analysis,40,Active
+PF-1587,Private Credit,Syndicated,Telecom & Media,21.5,7.09,3,Approval,22,Active
+PF-1588,Private Credit,Bilateral,Infrastructure,44.4,7.26,4,Admin,14,Active
+PF-1589,Private Equity,Bilateral,Technology,36.7,6.77,2,Closing,17,Active
+PF-1590,Real Estate,Bilateral,Telecom & Media,40.0,9.53,5,Closing,29,Closed
+PF-1591,Real Estate,Bilateral,Technology,27.1,9.47,2,Approval,41,Active
+PF-1592,Private Credit,Syndicated,Infrastructure,102.1,5.47,7,Admin,9,Active
+PF-1593,Private Credit,Bilateral,Technology,44.9,6.89,2,Closing,42,Active
+PF-1594,Private Credit,Syndicated,Technology,47.7,10.17,6,Approval,15,Active
+PF-1595,Private Credit,Syndicated,Infrastructure,86.0,7.77,3,Closing,6,Active
+PF-1596,Real Estate,Bilateral,Leisure,330.8,9.55,6,Admin,26,Active
+PF-1597,Private Credit,Syndicated,Technology,64.6,8.62,4,Approval,31,Active
+PF-1598,Private Equity,Syndicated,Infrastructure,30.8,8.44,3,Approval,19,Active
+PF-1599,Private Credit,Syndicated,Infrastructure,48.8,10.85,7,Admin,4,Active
